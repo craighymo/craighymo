@@ -4,10 +4,10 @@ I'm a Computer Science student at Rutgers University interested in full-stack de
 
 ## Featured Projects
 
-- **Daytoday** — MERN journaling and reminder web app
-- **IMDb Movie Score Analysis** — Python data science and machine learning project
-- **Photo Library Manager** — JavaFX desktop photo organization app
-- **Android Photo Library Manager** — Java Android photo library app
+- **Daytoday** - MERN journaling and reminder web app
+- **IMDb Movie Score Analysis** - Python data science and machine learning project
+- **Photo Library Manager** - JavaFX desktop photo organization app
+- **Android Photo Library Manager** - Java Android photo library app
 
 ## Technologies
 
