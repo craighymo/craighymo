@@ -1,20 +1,29 @@
-## Hi there 👋
+# Hi, I'm Craig 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craighymo&layout=compact&theme=tokyonight)](https://github.com/craighymo)
+I'm a Computer Science student at Rutgers University interested in full-stack development, data-driven applications, and AI/ML-related software.
 
-<!--
-**craighymo/craighymo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building practical applications with clean interfaces, reliable backend logic, and real-world usefulness. My recent work includes full-stack web apps, database-backed systems, Java desktop/mobile apps, and Python data science projects.
 
+## Current Focus
 
+- Full-stack development with React, Node.js, Express, MongoDB, Flask, and MySQL
+- Python data analysis and machine learning with pandas, scikit-learn, and matplotlib
+- Java application development with JavaFX and Android Studio
+- Building portfolio-ready projects with clear documentation
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Daytoday** — MERN journaling and reminder web app
+- **IMDb Movie Score Analysis** — Python data science and machine learning project
+- **Photo Library Manager** — JavaFX desktop photo organization app
+- **Android Photo Library Manager** — Java Android photo library app
+
+## Technologies
+
+**Languages:** Java, Python, JavaScript, SQL, HTML, CSS  
+**Frameworks & Tools:** React, Node.js, Express, Flask, MongoDB, MySQL, JavaFX, Android Studio, Git, GitHub  
+**Data/AI:** pandas, NumPy, scikit-learn, matplotlib, regression, classification, clustering
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/craig-hymowitz/
