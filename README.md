@@ -1,10 +1,10 @@
 # Hi, I'm Craig 👋
 
-I'm a Computer Science student at Rutgers University interested in full-stack development, data-driven applications, and AI/ML-related software.
+I'm a Computer Science graduate at Rutgers University interested in full-stack development, data-driven applications, and AI/ML-related software.
 
 ## Featured Projects
 
-- **Daytoday** - MERN journaling and reminder web app
+- **daytoday** - MERN journaling and reminder web app
 - **IMDb Movie Score Analysis** - Python data science and machine learning project
 - **Photo Library Manager** - JavaFX desktop photo organization app
 - **Android Photo Library Manager** - Java Android photo library app
@@ -41,6 +41,4 @@ I'm a Computer Science student at Rutgers University interested in full-stack de
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-## Connect
 
-- LinkedIn: https://www.linkedin.com/in/craig-hymowitz/
